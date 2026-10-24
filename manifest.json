@@ -1,0 +1,17 @@
+{
+  "name": "My Money Reset",
+  "short_name": "Money Reset",
+  "description": "จัดการการเงินส่วนบุคคล",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f8fafc",
+  "theme_color": "#15803d",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
